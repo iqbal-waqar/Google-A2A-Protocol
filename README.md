@@ -1,6 +1,6 @@
 # A2A Workflow - Understanding Agent-to-Agent Protocol
 
-![A2A Protocol Diagram](https://img.shields.io/badge/A2A-Protocol-blue?style=for-the-badge)
+![A2A Protocol Image](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/image2.original_6xqVyTd.jpg)
 
 ## What is A2A Protocol?
 
