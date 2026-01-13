@@ -296,21 +296,3 @@ Our greeting agent is intentionally simple because:
 4. **Realistic** - Uses production-ready libraries and patterns
 
 ---
-
-## Scaling the Concept
-
-Once you understand how the greeting agent works, you can build much more complex systems:
-
-- **Weather Agent** - Returns weather data
-- **Calculator Agent** - Performs calculations
-- **Database Agent** - Queries databases
-- **Multi-skill Agent** - Handles multiple different tasks
-- **Agent Networks** - Agents calling other agents
-
-All follow the same A2A protocol principles as our simple greeting agent.
-
----
-
-**Project Version:** 0.1.0  
-**Author:** Waqar (A2A Workflow Team)  
-**Date:** January 11, 2026
